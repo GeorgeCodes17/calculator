@@ -1,0 +1,8 @@
+.calc-icons:hover{
+    opacity: 40%;
+}
+
+.display-row{
+    min-height: 80px;
+    background-color: lightgray
+}
